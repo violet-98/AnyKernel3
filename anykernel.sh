@@ -5,6 +5,12 @@
 # begin properties
 properties() { '
 kernel.string=Xcalibur+ by Joker-V2
+kernel.for=
+kernel.compiler=
+kernel.made=
+kernel.version=
+message.word=
+build.date=$(date)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
