@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Xcalibur+ by Joker-V2
+kernel.string=Violet Kernels by B L A C K T A P E
 do.devicecheck=1
 do.modules=0
 do.systemless=1
