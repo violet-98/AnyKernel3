@@ -4,12 +4,10 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Xcalibur+ by Joker-V2
-kernel.for=
-kernel.compiler=
-kernel.made=
-kernel.version=
-message.word=
+kernel.string=Xcalibur
+kernel.compiler=LLVM 18.1.3
+kernel.made=Joker
+message.word=Thanks for choosing Xcalibur
 build.date=$(date)
 do.devicecheck=1
 do.modules=0
@@ -17,12 +15,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=violet
-device.name2=
-device.name3=
-device.name4=
-device.name5=
 supported.versions=13.0-16.0
-supported.patchlevels=
 '; } # end properties
 
 # shell variables
