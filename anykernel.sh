@@ -5,7 +5,7 @@
 # begin properties
 properties() { '
 kernel.string=Xcalibur
-kernel.compiler=LLVM 18.1.3
+kernel.compiler=LLVM 21.1.1
 kernel.made=Joker
 message.word=Thanks for choosing Xcalibur
 do.devicecheck=1
