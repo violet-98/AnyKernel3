@@ -4,17 +4,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Xcalibur
+kernel.string=Violet Kernels by B L A C K T A P E
 kernel.compiler=LLVM 21.1.1
-kernel.made=Joker
-message.word=Thanks for choosing Xcalibur
+kernel.made=BlackTape
+message.word=Thanks for choosing Ryuk
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=violet
-supported.versions=13.0-16.0
+supported.versions=10.0-16.0
 '; } # end properties
 
 # shell variables
